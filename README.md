@@ -2,7 +2,6 @@
 
 A **real-time online auction platform** built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.io** for real-time bidding functionality.  
 
-![Dashboard Screenshot](./client/public/screenshots/dashboard.png)  
 
 ---
 
