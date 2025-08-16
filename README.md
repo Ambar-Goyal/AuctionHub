@@ -38,6 +38,22 @@ A **real-time online auction platform** built with the **MERN stack** (MongoDB, 
 cd ../client
 npm install
 
+
+## Screenshots
+
+![](./assets/Screenshot%202025-08-16%20170839.png)  
+![](./assets/Screenshot%202025-08-16%20170900.png)  
+![](./assets/Screenshot%202025-08-16%20170929.png)  
+![](./assets/Screenshot%202025-08-16%20170948.png)  
+![](./assets/Screenshot%202025-08-16%20170957.png)  
+![](./assets/Screenshot%202025-08-16%20171051.png)  
+![](./assets/Screenshot%202025-08-16%20171108.png)  
+![](./assets/Screenshot%202025-08-16%20171120.png)  
+![](./assets/Screenshot%202025-08-16%20171146.png)  
+![](./assets/Screenshot%202025-08-16%20171158.png)  
+![](./assets/Screenshot%202025-08-16%20171216.png)  
+
+
 🔹 Setup environment variables
 
 Create a .env file in the server/ directory:
